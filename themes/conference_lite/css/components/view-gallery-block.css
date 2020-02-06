@@ -1,0 +1,31 @@
+.view-gallery-block {
+margin-top: 1em;
+} 
+
+.view-gallery-block img {
+width: 100%;
+border: 3px solid #337ab7;
+padding: 3px;
+border-radius: 10px;
+} 
+
+.view-gallery-block img:hover {
+border-color: #ddd;
+} 
+
+.view-gallery-block a {
+color: ##28df35;
+text-decoration: none;
+} 
+
+.view-gallery-block p {
+margin: 0 0 10px;
+display: inline;
+position: relative;
+bottom: 60px;
+left: 6px;
+background: rgba(17, 17, 17, .5);
+color: #fff;
+padding: 0.4em;
+border-radius: 10px;
+} 
